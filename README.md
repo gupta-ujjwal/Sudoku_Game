@@ -1,3 +1,3 @@
 # Suduko
 
-This c program gives you 3 sudoku problems based on the level choosn by you and also helps you in solving the problem.
+A c progra developed as a project for Introduction to C course. This program proviedes the user with suduko problems based on the level choosen by the user, namely -beginner, intermediate and expert. On succecful completion a proper message is displayed.
